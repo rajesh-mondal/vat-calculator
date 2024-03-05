@@ -3,7 +3,7 @@
 This project runs with Laravel version 10.
 
 ## Live Link
-http://project.sabyaroy.info/vat-calculator
+http://project.sabyaroy.info/
 
 ## Getting started
 
