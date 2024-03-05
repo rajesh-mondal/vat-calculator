@@ -3,7 +3,13 @@
 This project runs with Laravel version 10.
 
 ## Live Link
+
 http://project.sabyaroy.info/
+
+#Login Access
+
+mail: rajeshnwu@gmail.com
+password: 12345678
 
 ## Getting started
 
